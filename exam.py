@@ -1,3 +1,5 @@
+# Aliyev Abdulaziz
+
 # 1.	Postgresql bazaga python yordamida ulaning . 
 # Product nomli jadval yarating  (id,name,price, color,image) 
 
@@ -125,6 +127,7 @@ def print_letters():
         print(f'Letters: {letters[i]}')
         time.sleep(1)
 
+
 # thread1 = threading.Thread(target=print_numbers)
 # thread2 = threading.Thread(target=print_letters)
 
@@ -175,7 +178,7 @@ db_parameters = {
     'port' : 5432
 }
 
-# DbConnect contex manager yaratamiz
+
 class DbConnect:
     def __init__(self,db_parameters):
      
