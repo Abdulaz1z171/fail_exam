@@ -1,6 +1,6 @@
 # Aliyev Abdulaziz
 
-# 1.	Postgresql bazaga python yordamida ulaning . 
+# 1,2.	Postgresql bazaga python yordamida ulaning . 
 # Product nomli jadval yarating  (id,name,price, color,image) 
 
 
